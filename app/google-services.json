@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650596877553",
+    "project_id": "wheremybus-1ca4e",
+    "storage_bucket": "wheremybus-1ca4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650596877553:android:4af75fd44cfa30c18e9550",
+        "android_client_info": {
+          "package_name": "com.example.wheremybus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0bBUWv1P93mJAdA8qUcHoqttZS6PMbew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

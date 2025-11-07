@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Thola Ibhasi Lami</string>
+    <string name="login">Ngena</string>
+    <string name="register">Bhalisa</string>
+    <string name="username_hint">Igama lomsebenzisi</string>
+    <string name="password_hint">Iphasiwedi</string>
+</resources>

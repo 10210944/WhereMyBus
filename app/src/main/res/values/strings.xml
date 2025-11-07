@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhereMyBus</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+</resources>
+
+
