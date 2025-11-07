@@ -1,6 +1,6 @@
-# 🚌 Find My Bus App
+# 🚌 Where My Bus App
 
-**Find My Bus** is an Android application designed to help commuters locate nearby buses in real-time.  
+**Where My Bus** is an Android application designed to help commuters locate nearby buses in real-time.  
 The app aims to make public transport more convenient, reliable, and accessible for everyone.
 
 ---
